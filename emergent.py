@@ -14,7 +14,9 @@ GRID_SIZE = 50
 # Probabilities
 P_INFECT = 0.3
 P_RECOVER = 0.7
-T_INFECTED = 2
+
+#number of "time" steps a cell has spent in an infected state before it has a chance to die or recover
+T_INFECTED = 5
 
 # init grid
 np.random.seed(42)
