@@ -32,3 +32,7 @@ Dead cells are permanently dead
 - `p_infection` = chance that a healthy neighbor gets infected  
 - `p_recovery` = chance that an infected person recovers  
 - `p_death` = chance that an infected person dies
+
+## Video Demo
+
+  https://drive.google.com/file/d/1IjxVULfyy7zcZVYIHxbKsUksU7PWNrku/view?usp=sharing
